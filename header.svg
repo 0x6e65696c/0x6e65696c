@@ -1,0 +1,34 @@
+<svg width="900" height="54" viewBox="0 0 900 54" fill="none" xmlns="http://w3.org">
+  <rect width="900" height="54" rx="4" fill="#061218"/>
+  <rect x="1" y="1" width="898" height="52" rx="3" stroke="#00F0FF" stroke-width="1.5" stroke-opacity="0.85"/>
+  
+  <!-- Left Bracketed Warning -->
+  <text x="18" y="32" fill="#00F0FF" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13" font-weight="bold" letter-spacing="1">
+    ( WARNING // IMF INTERNAL MAINFRAME // SECURE BRIEFING ACCESS ONLY )
+  </text>
+
+  <!-- Right Tracking ID + Barcode -->
+  <text x="615" y="31" fill="#8BA8B7" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" letter-spacing="1">
+    TRACKING ID:
+  </text>
+  
+  <!-- Vector Barcode -->
+  <g fill="#00F0FF">
+    <rect x="702" y="17" width="3" height="20"/>
+    <rect x="708" y="17" width="1.5" height="20"/>
+    <rect x="712" y="17" width="4" height="20"/>
+    <rect x="719" y="17" width="2" height="20"/>
+    <rect x="724" y="17" width="1" height="20"/>
+    <rect x="728" y="17" width="3.5" height="20"/>
+    <rect x="734" y="17" width="1.5" height="20"/>
+    <rect x="738" y="17" width="3" height="20"/>
+    <rect x="744" y="17" width="2" height="20"/>
+    <rect x="749" y="17" width="4" height="20"/>
+    <rect x="756" y="17" width="1.5" height="20"/>
+    <rect x="760" y="17" width="2.5" height="20"/>
+  </g>
+
+  <text x="772" y="31" fill="#00F0FF" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" font-weight="bold">
+    0x6E65696C-IITR
+  </text>
+</svg>
